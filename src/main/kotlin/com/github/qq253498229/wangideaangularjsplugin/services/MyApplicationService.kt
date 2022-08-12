@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.qq253498229.wangideaangularjsplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.qq253498229.wangideaangularjsplugin.MyBundle
 
 class MyApplicationService {
 

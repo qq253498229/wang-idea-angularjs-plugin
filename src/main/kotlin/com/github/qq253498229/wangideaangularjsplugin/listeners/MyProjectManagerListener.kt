@@ -1,9 +1,9 @@
-package org.jetbrains.plugins.template.listeners
+package com.github.qq253498229.wangideaangularjsplugin.listeners
 
 import com.intellij.openapi.components.service
 import com.intellij.openapi.project.Project
 import com.intellij.openapi.project.ProjectManagerListener
-import org.jetbrains.plugins.template.services.MyProjectService
+import com.github.qq253498229.wangideaangularjsplugin.services.MyProjectService
 
 internal class MyProjectManagerListener : ProjectManagerListener {
 
